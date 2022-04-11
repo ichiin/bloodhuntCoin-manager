@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/bloodhuntCoin-manager/static/css/main.f57305c5.css",
+    "main.js": "/bloodhuntCoin-manager/static/js/main.3bffcb53.js",
+    "static/js/787.4d2060ab.chunk.js": "/bloodhuntCoin-manager/static/js/787.4d2060ab.chunk.js",
+    "static/media/background.jpg": "/bloodhuntCoin-manager/static/media/background.159a8611a994a045ebf8.jpg",
+    "index.html": "/bloodhuntCoin-manager/index.html",
+    "main.f57305c5.css.map": "/bloodhuntCoin-manager/static/css/main.f57305c5.css.map",
+    "main.3bffcb53.js.map": "/bloodhuntCoin-manager/static/js/main.3bffcb53.js.map",
+    "787.4d2060ab.chunk.js.map": "/bloodhuntCoin-manager/static/js/787.4d2060ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f57305c5.css",
+    "static/js/main.3bffcb53.js"
+  ]
+}
